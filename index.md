@@ -1,9 +1,6 @@
 # Progress Journal
 
 ## Week 0
-[Here](files/Interesting R Examples.html) is my 1 interesting R example 
-[Here](files\Interesting R Examples.html) is my 1 interesting R example 
+[Here](https://github.com/ETM-58D/spring20-kocsimge/blob/master/files/Interesting%20R%20Examples.html) is my 1 interesting R example 
 
 will be added more :) 
-
-[I'm an inline-style link](https://www.google.com)
