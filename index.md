@@ -1,8 +1,8 @@
 # Progress Journal
 
 ## Week 0
-[Here](https://github.com/ETM-58D/spring20-kocsimge/blob/master/files/Interesting%20R%20Examples.html) is my 1 interesting R example 
+[Here](Interesting_R_Examples.html) is my 1 interesting R example 
 
 ## Homework 1
 Solutions to homework can found in the link
-[Homework - 1](https://github.com/ETM-58D/spring20-kocsimge/blob/master/files/Simge_Koc_HW1.html)
+[Homework - 1](Simge_Koc_HW1.html)
