@@ -9,4 +9,4 @@ Solutions to homework can found in the link
 
 ## Homework 2&3
 Solutions to homework can found in the link
-[Homework - 2&3](Simge_Koc_HW0203.html)
+[Homework - 2-3](Simge_Koc_HW0203.html)
