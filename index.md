@@ -6,3 +6,7 @@
 ## Homework 1
 Solutions to homework can found in the link
 [Homework - 1](Simge_Koc_HW1.html)
+
+## Homework 2&3
+Solutions to homework can found in the link
+[Homework - 2&3](Simge_Koc_HW0203.html)
