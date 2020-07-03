@@ -14,3 +14,6 @@ Solutions to homework can found in the link
 ## Homework 4
 Solutions to homework can found in the link
 [Homework - 4](https://etm-58d.github.io/spring20-kocsimge/Simge_Koc_HW04.html)
+
+## ETM591 Term Project - GiftBuddy
+Explanatory Data Analysis of the Movielens Dataset can be found [here](https://etm-58d.github.io/spring20-kocsimge/ETM591_GiftBuddy_(MovieRecommendations)_EDA_Notebook.html)
