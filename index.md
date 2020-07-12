@@ -18,7 +18,7 @@ Solutions to homework can found in the link
 ## ETM58D Term Project
 Project is conducted by Gözde Şen, Gözde Pourkarimi and Simge Koç.
 
-Nootbook can be found [here](https://etm-58d.github.io/spring20-kocsimge/ETM591_GiftBuddy_(MovieRecommendations)_Modeling_Notebook.html)
+Nootbook can be found [here](https://etm-58d.github.io/spring20-kocsimge/BA_Project_Final_Notebook.html).
 
 ## ETM591 Term Project - GiftBuddy
 Project is conducted by Gözde Şen  & Simge Koç.
