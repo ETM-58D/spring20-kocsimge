@@ -15,6 +15,11 @@ Solutions to homework can found in the link
 Solutions to homework can found in the link
 [Homework - 4](https://etm-58d.github.io/spring20-kocsimge/Simge_Koc_HW04.html)
 
+## ETM58D Term Project
+Project is conducted by Gözde Şen, Gözde Pourkarimi and Simge Koç.
+
+Nootbook can be found [here](https://etm-58d.github.io/spring20-kocsimge/ETM591_GiftBuddy_(MovieRecommendations)_Modeling_Notebook.html)
+
 ## ETM591 Term Project - GiftBuddy
 Project is conducted by Gözde Şen  & Simge Koç.
 
